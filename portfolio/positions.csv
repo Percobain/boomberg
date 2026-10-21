@@ -1,0 +1,5 @@
+ticker,name,status,invested_usd,entry_date,entry_price_local,thesis,notes
+QPOWER IS Equity,Quality Power Electrical Equip,open,,,,research/stocks/QPOWER.md,"Bought (team chat 'woh buy kiya?' -> 'Ues'). Amount + price NOT recorded - pull from TMSG history"
+RELIANCE IS Equity,Reliance Industries Ltd,pending,,,,research/stocks/RELIANCE.md,"Arshia list 21-Oct 23:50. Size proposed ~$50k each, not confirmed. Verify in TMSG whether executed"
+HMN IS Equity,Emami Ltd,pending,,,,research/stocks/HMN.md,"Arshia list 21-Oct 23:50. Size ~$50k? unconfirmed"
+WHIRL IS Equity,Whirlpool of India Ltd,pending,,,,research/stocks/WHIRL.md,"Arshia list 21-Oct 23:50. Size ~$50k? unconfirmed. NOT WHR UN (US parent)"

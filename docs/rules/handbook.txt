@@ -1,0 +1,625 @@
+--- page 1 ---
+2026
+Bloomberg Global 
+Trading Challenge 
+The Trader’s Handbook
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 2 ---
+Welcome 
+Challengers!
+The Global Trading Challenge is the 
+only investment simulation that takes 
+place entirely within the Bloomberg 
+Terminal℠.
+Last year, more than 2,600 teams 
+participated in the challenge, 
+generating 65,000+ trades, and a profit 
+of $20+ million. 
+Over the next 5 weeks, you’ll get a 
+chance to use real–world, real-time 
+financial tools to develop an investment 
+strategy, research high-potential stocks 
+and put those theories to the test to 
+prove your trading skills!
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 3 ---
+Contents of this Handbook
+How to 
+participate
+Regions and 
+Prizes
+Important 
+Dates
+Additional 
+Resources 
+How to enter 
+a Trade
+Tips for 
+Success
+Help 
+Resources 
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 4 ---
+How do we Participate? 
+• Teams consist of 3-5 participants + faculty advisor 
+• $1M USD to invest
+• Long-only positions and No leverage 
+• No single stock can make up more than 20% of your investments 
+• Investible Universe: WLS Index (Bloomberg World Large, Medium & Small-cap Index), 
+offers over 10K stocks from around the world
+Your team will enter your trades into the Bloomberg terminal and monitor your 
+performance in real-time. We will send out weekly leaderboards to track your progress 
+and how you rank against your peers. 
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 5 ---
+Winner Prizes! 
+Global Leader
+North America
+ South & Central 
+America
+ Europe
+ Middle East & 
+Africa 
+ Asia & Oceania
+Global 1st Place: 
+➢ Tech prize 
+➢ Bloomberg Gift Basket
+➢ Champion’s Certificates
+➢ 1-Year Free access to Bloomberg.com for your 
+entire school
+Regional Winners: 
+➢ Champion’s Certificates
+➢ 6-Months Free access to Bloomberg.com for 
+your entire school
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 6 ---
+Important Dates: 
+Oct 12th 
+Oct 19th 
+Oct 26th 
+Nov 2nd  
+Nov 9th  
+Nov 13th   
+Nov 20th    
+Challenge Begins!
+After registration closes, 
+we’ll send training 
+resources to the teams 
+to help get you ready.
+Week 1 Results
+During the Challenge, you’ll 
+be able to see your team’s 
+position in the overall rank, 
+but the team names will be 
+hidden. Each Monday, we’ll 
+release the leader boards.
+Week 2 Results
+By now you should have a 
+feel for what works.  You 
+can buy-and-sell stocks as 
+the challenge progresses.
+Week 3 Results
+Keep at it!  Keep 
+reviewing your portfolio 
+and keep reviewing the 
+news. If something isn’t 
+working, should you keep 
+it? Should you take profit?
+Week 4 Results 
+The final countdown 
+begins!  Make that final 
+push and connect with your 
+team to align on ideas. 
+Week 5: Challenge End
+Last and final trading day! 
+The challenge ends on this 
+Friday so this is the 
+opportunity to make any final 
+trades, take profit and line up 
+for a photo finish!
+Winners 
+Announced! 
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 7 ---
+Resources
+We have a range of video resources in the Bloomberg for Education Web Portal. Here’s how to find 
+them:
+ 
+Visit {BCER <GO>} on your terminal Click “Continuous Learning” for 
+Webinars 
+Click “Certificates” for the Bloomberg 
+Market Concepts 
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 8 ---
+Entering Trades
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 9 ---
+Getting Started with TMSG <GO>
+In each team, only the captain enters trades, after discussing with the team 
+what to Buy or Sell.
+1. Login to the Terminal 2. Run TMSG <GO> 3. Select your Regional Challenge 
+Network from the drop down
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 10 ---
+Navigating TMSG <GO>
+1) Compose a 
+new Trade
+“Group By” allows us 
+to roll-up individual 
+trades into baskets 
+to see overall P&L
+(X) Close an 
+existing Trade
+Show /  hide 
+closed trades
+P&L both 
+Absolute and 
+Relative to the 
+Index.
+You’ll enter your trades using the screen TMSG <go> 
+Some trades will do well, others not so well - TMSG sums 
+these up and presents a total P&L for the individual 
+trader. 
+TMSG also produces Profit & Loss numbers compared 
+against the benchmark. The win criteria for the challenge 
+is the Rel P&L column.
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 11 ---
+1. Compose a new BUY trade
+These settings will 
+automatically sell your 
+position once the price 
+hits a certain level. The 
+position will close and 
+your cash balance will 
+increase.
+Enter your Stock here
+❶
+Check-off the 
+Challenge Name❷
+Specify your 
+investment in $$$❸
+Click 1) Send to 
+Complete❹
+(Optional)  “Target Price” is 
+your estimated future price
+(Optional)  Click this to set 
+Stop Loss/ Take Profit levels 
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 12 ---
+2. Closing a trade (Selling) 
+No need to adjust anything - 
+will slow close.
+Click the red 
+ next to 
+the position❶
+Click Close Idea❷
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 13 ---
+3. Seeing the “Audit Trail” of Trades 
+It’s sometimes helpful to understand the exact 
+amounts that are being spent/received from the Buy 
+and Sell trades. You can see the ledger in the 4) 
+NETWORKS > Show History menu. 
+“Debit” items =  cash spent to buy stocks
+“Credit” items = cash received from sale of stocks
+You’ll notice that when you enter a Buy order of 
+$100k, the debit is never exactly $100,000.  This is 
+because TMSG tries to buy the maximum number of 
+stock units with the money you allocated. Because 
+stock prices vary, it never sums up to exactly the full 
+amount.  It should be very close. 
+You’ll also notice that during the 20 minutes it takes 
+to execute a trade, the cash has not yet been posted 
+to the ledger.  It will in due course.
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 14 ---
+4. Rules and Errors
+There are a number of rules of the competition that 
+TMSG will enforce automatically. 
+If you try to submit a trade that breaches one or more of 
+the rules you’ll be presented with an error message 
+similar to this:
+What it says What it Means
+“Max # Sell ideas is 0” You’ve tried to enter a SHORT trade. 
+Please correct the strategy dropdown to “Long”
+“Minimum Cash Balance 
+is 0”
+You don’t have enough cash to complete this trade. 
+Try to reduce your Investment amount.
+“Index Membership” The company you want to buy is not part of the Bloomberg World 
+Large, Medium & Small index (WLS).  
+Try a different company. 
+“Maximum Position Size 
+as a Percentage”
+You can only invest a maximum of $200,000 into any one company. 
+Try to reduce your Investment amount.
+There are other possible errors; if you see one that isn’t listed, 
+contact the helpdesk at:
+ bbgtradecomp@bloomberg.net
+It’s helpful to take a screen grab with the GRAB<GO> command 
+which will help us to diagnose the cause.
+Bloomberg 
+
+--- page 15 ---
+Tips For Success
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 16 ---
+Teamwork makes the Dream Work 
+They know that tough times 
+don’t last, tough people do.
+04
+They understand that Timing 
+is Critical 
+03
+They make an Investment 
+Strategy, and stick to it.
+02
+They Work Together
+01
+Decide early on what each team member is going to do 
+and how you’ll make decisions. It’s easy for one 
+passionate person to overrule the team, but winning 
+teams are built on compromise and shared decisions.
+Develop
+ 
+a
+ 
+clear
+ 
+process
+ 
+for
+ 
+deciding
+ 
+what
+ 
+you’re
+ 
+going
+ 
+to
+ 
+ invest
+ 
+ in
+ 
+ with
+ 
+ reasons
+.
+ 
+ Have
+ 
+ frequent
+ 
+ meetings
+ 
+ to
+ 
+review
+ 
+ the
+ 
+ portfolio,
+ 
+ and
+ 
+ think
+ 
+ how
+ 
+ to
+ 
+ apply
+ 
+ your
+ 
+strategy
+ 
+to
+ 
+changing
+ 
+market
+ 
+conditions
+.
+In
+ 
+ 2021
+,
+ 
+ only
+ 
+ 1
+ 
+ of
+ 
+ our
+ 
+ top
+-
+10
+ 
+ teams
+ 
+ was
+ 
+ on
+ 
+ the
+ 
+leaderboard
+ 
+in
+ 
+first
+ 
+week
+.
+ 
+As
+ 
+markets
+ 
+move,
+ 
+strategies
+ 
+start
+ 
+to
+ 
+pay
+ 
+off
+ 
+and
+ 
+teams
+ 
+will
+ 
+move
+ 
+up
+ 
+(and
+ 
+down!)
+ 
+the
+ 
+rankings
+ 
+change
+ 
+rapidly
+.
+ 
+Keep
+ 
+at
+ 
+it!
+  
+Remember,
+ 
+ the
+ 
+ challenge
+ 
+ is
+ 
+ time
+-
+limited
+:
+ 
+ A
+ 
+ strategy
+ 
+that
+ 
+needs
+ 
+1
+ 
+year
+ 
+to
+ 
+pay
+-
+off
+ 
+won’t
+ 
+win
+ 
+the
+ 
+game
+.
+ 
+Use
+ 
+all
+ 
+the
+ 
+ resources
+ 
+ available
+ 
+ on
+ 
+ the
+ 
+ terminal
+ 
+ to
+ 
+ monitor
+ 
+market
+ 
+sentiment,
+ 
+themes
+ 
+and
+ 
+trends
+.
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 17 ---
+Learn the Investment Management Cycle
+“What should I buy?”
+ (or sell)
+IDEA GENERATION
+“What Price should I 
+buy (or sell) at?”
+PRICE DISCOVERY
+“How do I get my order 
+into the market and 
+start making money?”
+EXECUTION
+“How do I monitor the  
+performance of my 
+portfolio?”
+PORTFOLIO MGMT
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+{N<GO>} : NEWS 
+{BI<GO>} : Bloomberg 
+Intelligence Industry Research 
+{EQS <GO>} : Equity Screening 
+{FA<GO>} : Financials 
+{ANR <GO>} : Analyst Recommendations 
+{MODL <GO>} : Model Estimates
+{GP <GO>}: Charting 
+{TMSG <GO>} 
+{W <GO>} : Monitor Worksheets
+{PORT <GO>} : Test your Portfolio 
+
+--- page 18 ---
+Understand Relative P&L
+In the Challenge, we’ll be ranking teams based on 
+your Relative P&L. You’ll see this column in the 
+TMSG<GO> blotter screen, and near to it P&L. 
+What’s the difference? 
+The important thing to remember is that you’re 
+being measured against the benchmark. This 
+means that your trades don’t just have to make 
+money; they have to make more money than the 
+benchmark index. For this reason, you can have a 
+positive P&L, but a negative Relative P&L. And 
+vice-versa, if the benchmark is doing badly.
+The benchmark we’re using in the challenge is the 
+Bloomberg World Large, Medium & Small Cap 
+index (“WLS Index”) which you’ll recognise as 
+being the list of stocks which you’re allowed to 
+invest in.
+ Notice here that the P&L is still going up (white line) but the benchmark 
+is going up faster (orange line).  This means that the Relative P&L is 
+negative, even whilst the portfolio as a whole was making money.
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 19 ---
+Know your Help Resources 
+F1
+Help
+For questions about using the 
+Bloomberg Terminal, each screen has 
+a detailed Help Page that you can 
+access by pressing the Green <Help> 
+key on your keyboard.
+For questions about financial 
+theory, calculations and 
+concepts, check in with your 
+Faculty Advisor.
+For questions about the Challenge, its 
+rules, using TMSG, or anything in this guide 
+please contact:    
+bbgtradecomp@bloomberg.net
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
+
+--- page 20 ---
+Good Luck Trading!
+Bloomberg for Education
+Bloomberg 
+For use only by students enrolled in 
+Global Trading Challenge. Not for Redistribution.
+ 
