@@ -8,20 +8,26 @@ Same-college rival Titanium Bros: rank 1903, Rel −$10,004.
 ## Holdings (see `portfolio/positions.csv`)
 | Stock | Status | $ |
 |---|---|---|
-| Quality Power (QPOWER IS) | bought | ? |
-| Reliance (RELIANCE IS) | planned / unconfirmed | ~50k? |
-| Emami (HMN IS) | planned / unconfirmed | ~50k? |
-| Whirlpool of India (WHIRL IS) | planned / unconfirmed | ~50k? |
+| Reliance (RELIANCE IS) | open | 50,000 |
+| Quality Power (QPOWER IS) | open | 30,000 |
+| Emami (HMN IS) | open | 30,000 |
+| Whirlpool of India (WHIRL IS) | open | 30,000 |
+| **Invested** | | **140,000** |
+| **Cash** | | **~860,000 (86%)** |
+
+Amounts are what Arshia allocated (chat 22-Oct 00:02); exact fills/dates still to pull from TMSG.
+If the leaderboard Abs P&L (−$2,444) reflects these holdings, that's ≈ −1.7% on $140k.
 
 ## Biggest risks right now
-1. **We don't know our own book.** Amounts, fills and cash aren't recorded. → Pull TMSG history and fill `positions.csv` + `trades.csv`.
+1. **Fills not recorded.** Sizes known, but exact debits, prices and dates aren't. → Pull TMSG history into `portfolio/`.
 2. **100% India vs a ~61% US benchmark.** All four picks are Indian small/mid/large caps in INR. Nifty falling + INR weakness = Rel P&L hit twice. Decide deliberately if that's the strategy.
-3. **Idle cash.** If most of the $1M is uninvested, we only beat the index when it falls. Decide on a core allocation.
+3. **86% idle cash.** With ~$860k uninvested, we only beat the index when it falls. Decide on a core allocation.
 4. **Small sizes can't move rank.** $50k positions at ±5% = ±$2.5k. Leaders are typically far apart; positions up to $200k exist for a reason.
 5. **Wrong-ticker risk.** RELIANCE IS ≠ RS UN; WHIRL IS ≠ WHR UN. Always run `scripts/wls.py`.
 
 ## Next actions
-- [ ] Pull actual trades from TMSG → `portfolio/`.
+- [ ] Pull exact fills/dates from TMSG → `portfolio/`.
+- [ ] Decide what to do with the ~$860k cash.
 - [ ] Agree overall strategy (core index-like sleeve + conviction bets?) → write in `strategy/PLAN.md`.
 - [ ] 5-line thesis for each holding in `research/stocks/`.
 - [ ] Start `tracking/daily_pnl.csv` today.

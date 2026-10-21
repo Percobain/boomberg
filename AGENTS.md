@@ -11,7 +11,7 @@ Compiled by RecurOS. These are settled; build on them.
 
 ### Decisions
 
-- Team picks 21-Oct: Reliance (RELIANCE IS), Emami (HMN IS), Whirlpool of India (WHIRL IS), Quality Power (bought); sizes unconfirmed (~50k each proposed) (`portfolio/positions.csv`) [c:1d20]
+- Holdings as of 22-Oct: RELIANCE IS $50k; QPOWER IS, HMN IS, WHIRL IS $30k each ($140k invested, ~$860k cash); fills not yet verified in TMSG (`portfolio/positions.csv`) [c:c59f]
 
 ### Facts
 
@@ -23,5 +23,5 @@ Save only when I explicitly say so, plus one batched call at session end.
 Use ctx_append(kind, text, why, refs). Don't log progress or summaries.
 Cross-branch material: ctx_propose(target_branch, ...).
 For anything else RecurOS does (new idea, spec, build, delete, sync, map, handoff), run the `ctx` CLI yourself; commands are in `.ctx/commands.md` (or `ctx commands`). Ask before deleting.
-<!-- ctx/1 b=boomberg/code n=5 t=383/700 root=b3:2c209cba gen=01M5FVX4 v=0.1.0 -->
+<!-- ctx/1 b=boomberg/code n=5 t=380/700 root=b3:985b6e39 gen=01M5FW68 v=0.1.0 -->
 <!-- ctx:end -->

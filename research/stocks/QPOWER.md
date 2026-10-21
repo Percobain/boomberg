@@ -2,7 +2,7 @@
 
 - **WLS ticker:** `QPOWER IS Equity` (checked 2026-10-22)
 - **Country / currency:** India / INR
-- **Status:** open (amount not recorded)
+- **Status:** open
 - **Owner:** 
 - **Origin:** Friend tip list (Kanohar, Quality Power, Accent Microcell, Stallion, Brooks Lab) — the only one in WLS.
 
@@ -19,9 +19,10 @@ _TODO — no written thesis yet._
 - India is ~1.7% of WLS — this is an India + INR bet against a ~61% US benchmark.
 
 ## Plan
-- Size: $
+- Size: $30,000 (Arshia, chat 22-Oct 00:02)
 - Exit / take-profit:
 - Stop / invalidation:
 
 ## Log
 - 2026-10-22: file created from team chat.
+- 2026-10-22: size confirmed in chat: $30,000. Fill price TBD from TMSG.
