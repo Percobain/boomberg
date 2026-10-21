@@ -10,11 +10,14 @@ Source: `docs/rules/2026 Traders Handbook.pdf` (text copy: `docs/rules/handbook.
 | Max per stock | 20% = **$200,000** per company | "Maximum Position Size as a Percentage" |
 | Cash ≥ 0 | Can't spend more than you have | "Minimum Cash Balance is 0" |
 | Universe | Only **WLS Index** members (~10.8k stocks) | "Index Membership" |
+| Instruments | **Single-name equities only — no ETFs** (2024/25 terms, TUM page) | — |
 | Who trades | Only the **captain** enters trades in `TMSG <GO>` | — |
 | Execution | ~**20 min** to execute; fills are approx (max whole shares for the $ amount) | — |
 
 ## How we are ranked
 **Relative P&L vs the WLS Index** (the `Rel P&L` column in TMSG). Making money is not enough — we must beat the index.
+Prior years' winners were ranked on **time-weighted relative return vs the WLS *Price Return* index** (TUM 2025 page) — dividends don't help the benchmark, and when we're in the market matters.
+Sources: https://www.fa.mgt.tum.de/fm/teaching/project-studies/list-of-open-project-studies/bloomberg-global-trading-challenge-2025 · https://ug.hkubs.hku.hk/f/competition/254985/262466/2024_GTC_Introduction.pdf
 
 What the WLS benchmark actually is (Sep-03 snapshot, `data/processed/wls_country_weights.csv`):
 - **United States ≈ 61%**, Japan ≈ 5.8%, Taiwan ≈ 3.2%, UK ≈ 3.1%, Canada ≈ 3.0% … **India ≈ 1.7%**.

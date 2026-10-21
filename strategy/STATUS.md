@@ -27,7 +27,7 @@ If the leaderboard Abs P&L (−$2,444) reflects these holdings, that's ≈ −1.
 
 ## Next actions
 - [ ] Pull exact fills/dates from TMSG → `portfolio/`.
-- [ ] Decide what to do with the ~$860k cash.
-- [ ] Agree overall strategy (core index-like sleeve + conviction bets?) → write in `strategy/PLAN.md`.
+- [ ] Decide what to do with the ~$860k cash → proposal in `strategy/PLAN.md` (team to approve).
+- [x] Strategy drafted: `strategy/PLAN.md` (US core + Taiwan overweight + small HK/KR/JP).
 - [ ] 5-line thesis for each holding in `research/stocks/`.
 - [ ] Start `tracking/daily_pnl.csv` today.

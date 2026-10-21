@@ -1,0 +1,15 @@
+ticker,name,country,amount_usd,tranche,catalyst_in_window,why
+NVDA UW Equity,NVIDIA Corp,United States,110000,now,"Earnings ~17 Nov (after window) - pre-earnings run-up; largest WLS weight 4.3%",Close biggest single-stock gap vs benchmark
+MSFT UW Equity,Microsoft Corp,United States,80000,now,"Q3 results 28 Oct after close (confirmed)",Azure growth; 3.1% of WLS
+GOOGL UW Equity,Alphabet Inc,United States,80000,now,"Q3 results 28 Oct after close",Cloud + Search; GOOGL+GOOG 2.9% of WLS
+AAPL UW Equity,Apple Inc,United States,70000,now,"Q3 results 2 Nov after close (confirmed)",Lowest-volatility way to add benchmark weight (3.9%)
+AMZN UW Equity,Amazon.com Inc,United States,60000,now,"Q3 results ~29 Oct (unconfirmed)",AWS; 2.0% of WLS
+2330 TT Equity,Taiwan Semiconductor Manufactu,Taiwan,120000,now,"Oct revenue ~10 Nov; MSFT/GOOGL capex comments 28 Oct","Q3 beat (+41% YoY), Q4 guide +12-16% QoQ; stock fell on AI-selloff, not fundamentals"
+2454 TT Equity,MediaTek Inc,Taiwan,40000,now,"Q3 results call 30 Oct (IR page; one source says 5 Nov)",Q3 revenue reportedly above guidance (secondary source)
+2308 TT Equity,Delta Electronics Inc,Taiwan,40000,now,"Q3 analyst meeting ~29 Oct (secondary source)","AI data-centre power; ~9% below Sep-3 price"
+1299 HK Equity,AIA Group Ltd,Hong Kong,35000,now,"Q3 new-business update ~end Oct (date unverified)",Defensive; southbound still buying
+700 HK Equity,Tencent Holdings Ltd,Hong Kong,25000,now,"Fifth Plenum 26-29 Oct; results 18 Nov (after window)",Oversold below HK$400; top southbound buy
+000660 KP Equity,SK hynix Inc,South Korea,30000,now,"Q3 results 28 Oct before 09:00 KST (confirmed)",AI memory tight supply
+005930 KP Equity,Samsung Electronics Co Ltd,South Korea,20000,now,"Full Q3 results 29 Oct",Record prelim Q3 op profit KRW 107.4T
+8035 JT Equity,Tokyo Electron Ltd,Japan,25000,now,"Results ~30 Oct (unverified)",AI chip-equipment leader
+6857 JT Equity,Advantest Corp,Japan,25000,now,"Results 28 Oct",Rebound after -14.7% drop on 15 Oct

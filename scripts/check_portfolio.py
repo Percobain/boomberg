@@ -1,10 +1,12 @@
 """Rule check + benchmark-relative exposure for portfolio/positions.csv.
 
-Usage: python scripts/check_portfolio.py
+Usage: python scripts/check_portfolio.py [strategy/orders_YYYY-MM-DD.csv]
+Pass an orders file to check the book AS IF those buys were filled.
 Checks: WLS membership, <= $200k per name (20%), cash >= 0, long-only.
 Then shows our country weights vs the WLS benchmark, because we are ranked on
 RELATIVE P&L: every % we hold away from the index's mix is an active bet.
 """
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -18,7 +20,12 @@ def main():
     uni = pd.read_csv(ROOT / "data/processed/wls_universe.csv")
     pos = pd.read_csv(ROOT / "portfolio/positions.csv")
     held = pos[pos.status.isin(["open", "pending"])].copy()
+    if len(sys.argv) > 1:
+        orders = pd.read_csv(ROOT / sys.argv[1]).rename(columns={"amount_usd": "invested_usd"})
+        held = pd.concat([held, orders.assign(status="proposed")], ignore_index=True)
+        print(f"(including proposed orders from {sys.argv[1]})")
     held["invested_usd"] = pd.to_numeric(held.invested_usd, errors="coerce")
+    held = held.groupby("ticker", as_index=False).agg(invested_usd=("invested_usd", "sum"))
 
     problems = []
     for _, p in held.iterrows():

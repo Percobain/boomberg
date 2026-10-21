@@ -8,10 +8,13 @@ Compiled by RecurOS. These are settled; build on them.
 - Ranking is Relative P&L vs WLS index; WLS is ~61% US, ~1.7% India by weight (Sep-03 snapshot) (`data/processed/wls_country_weights.csv`, `docs/rules/handbook.txt`) [c:aa3b]
 - Rules: $1M, long-only, no leverage, max $200k (20%) per stock, cash>=0, WLS members only; only captain trades via TMSG; last trading day Fri 13 Nov 2026 (`docs/rules/handbook.txt`) [c:775a]
 - Never record guessed prices/fills; ledger in portfolio/*.csv must mirror TMSG history [c:196b]
+- Rules also: single-name equities only, no ETFs; prior-year ranking = time-weighted relative return vs WLS Price Return index (`strategy/RULES_AND_CHECKLIST.md`) [c:dfb7]
 
 ### Decisions
 
 - Holdings as of 22-Oct: RELIANCE IS $50k; QPOWER IS, HMN IS, WHIRL IS $30k each ($140k invested, ~$860k cash); fills not yet verified in TMSG (`portfolio/positions.csv`) [c:c59f]
+- Plan 23-Oct (proposed, not executed): US $400k (NVDA 110, MSFT 80, GOOGL 80, AAPL 70, AMZN 60), Taiwan $200k (TSMC 120, MediaTek 40, Delta 40), HK $60k (AIA 35, Tencent 25), Korea $50k (hynix 30, Samsung 20), Japan $50k (TEL 25, Advantest 25); ~$100k reserve; no new India money (`strategy/PLAN.md`) [c:7dca]
+  - why: Ranked relative to WLS (~61% US); 86% cash was a huge unintended bet; Taiwan overweight on TSMC Q3 beat
 
 ### Facts
 
@@ -23,5 +26,5 @@ Save only when I explicitly say so, plus one batched call at session end.
 Use ctx_append(kind, text, why, refs). Don't log progress or summaries.
 Cross-branch material: ctx_propose(target_branch, ...).
 For anything else RecurOS does (new idea, spec, build, delete, sync, map, handoff), run the `ctx` CLI yourself; commands are in `.ctx/commands.md` (or `ctx commands`). Ask before deleting.
-<!-- ctx/1 b=boomberg/code n=5 t=380/700 root=b3:985b6e39 gen=01M5FW68 v=0.1.0 -->
+<!-- ctx/1 b=boomberg/code n=7 t=529/700 root=b3:b03f2965 gen=01M5FX07 v=0.1.0 -->
 <!-- ctx:end -->
