@@ -3,22 +3,26 @@
 
 Compiled by RecurOS. These are settled; build on them.
 
+### Documents
+
+- `journal-2026-10-21`: Journal 21 Oct (~288 tokens, read it in `ctx spec show journal-2026-10-21` or ctx_pack(doc="journal-2026-10-21"))
+- `journal-2026-10-22`: Journal 22 Oct (~189 tokens, read it in `ctx spec show journal-2026-10-22` or ctx_pack(doc="journal-2026-10-22"))
+- `plan-2026-10-23`: Deployment plan 23 Oct 2026 (~789 tokens, read it in `ctx spec show plan-2026-10-23` or ctx_pack(doc="plan-2026-10-23"))
+- `research-hongkong-2026-10-22`: Hong Kong research 22 Oct (~463 tokens, read it in `ctx spec show research-hongkong-2026-10-22` or ctx_pack(doc="research-hongkong-2026-10-22"))
+- `research-in-jp-kr-2026-10-22`: India/Japan/Korea research 22 Oct (~529 tokens, read it in `ctx spec show research-in-jp-kr-2026-10-22` or ctx_pack(doc="research-in-jp-kr-2026-10-22"))
+- `research-taiwan-2026-10-22`: Taiwan research 22 Oct (~454 tokens, read it in `ctx spec show research-taiwan-2026-10-22` or ctx_pack(doc="research-taiwan-2026-10-22"))
+- `research-us-macro-2026-10-22`: US + macro research 22 Oct (~449 tokens, read it in `ctx spec show research-us-macro-2026-10-22` or ctx_pack(doc="research-us-macro-2026-10-22"))
+- `rules`: Challenge rules + pre-trade checklist (~895 tokens, read it in `ctx spec show rules` or ctx_pack(doc="rules"))
+- `status`: Where we stand (~467 tokens, read it in `ctx spec show status` or ctx_pack(doc="status"))
+
 ### Constraints
 
-- Ranking is Relative P&L vs WLS index; WLS is ~61% US, ~1.7% India by weight (Sep-03 snapshot) (`data/processed/wls_country_weights.csv`, `docs/rules/handbook.txt`) [c:aa3b]
-- Rules: $1M, long-only, no leverage, max $200k (20%) per stock, cash>=0, WLS members only; only captain trades via TMSG; last trading day Fri 13 Nov 2026 (`docs/rules/handbook.txt`) [c:775a]
 - Never record guessed prices/fills; ledger in portfolio/*.csv must mirror TMSG history [c:196b]
-- Rules also: single-name equities only, no ETFs; prior-year ranking = time-weighted relative return vs WLS Price Return index (`strategy/RULES_AND_CHECKLIST.md`) [c:dfb7]
+- boomberg repo commits: no Claude co-author or Claude attribution, strictly (history was rewritten 22-Oct to remove it) [c:3bf5]
 
-### Decisions
+### Open questions
 
-- Holdings as of 22-Oct: RELIANCE IS $50k; QPOWER IS, HMN IS, WHIRL IS $30k each ($140k invested, ~$860k cash); fills not yet verified in TMSG (`portfolio/positions.csv`) [c:c59f]
-- Plan 23-Oct (proposed, not executed): US $400k (NVDA 110, MSFT 80, GOOGL 80, AAPL 70, AMZN 60), Taiwan $200k (TSMC 120, MediaTek 40, Delta 40), HK $60k (AIA 35, Tencent 25), Korea $50k (hynix 30, Samsung 20), Japan $50k (TEL 25, Advantest 25); ~$100k reserve; no new India money (`strategy/PLAN.md`) [c:7dca]
-  - why: Ranked relative to WLS (~61% US); 86% cash was a huge unintended bet; Taiwan overweight on TSMC Q3 beat
-
-### Facts
-
-- Of friend-tip list (Kanohar, Quality Power, Accent Microcell, Stallion, Brooks Lab) only Quality Power (QPOWER IS) is in WLS (`research/watchlist.csv`) [c:d267]
+- Open: exact TMSG fills/dates for the 4 India buys; who is captain; confirm berg bloom is our team [c:a288]
 
 ### Working with ctx
 Active branch: boomberg/code. The context above is compiled; don't re-derive it.
@@ -26,5 +30,5 @@ Save only when I explicitly say so, plus one batched call at session end.
 Use ctx_append(kind, text, why, refs). Don't log progress or summaries.
 Cross-branch material: ctx_propose(target_branch, ...).
 For anything else RecurOS does (new idea, spec, build, delete, sync, map, handoff), run the `ctx` CLI yourself; commands are in `.ctx/commands.md` (or `ctx commands`). Ask before deleting.
-<!-- ctx/1 b=boomberg/code n=7 t=529/700 root=b3:b03f2965 gen=01M5FX07 v=0.1.0 -->
+<!-- ctx/1 b=boomberg/code n=3 t=604/700 root=b3:8c7f5989 gen=01M5FY02 v=0.1.0 -->
 <!-- ctx:end -->
